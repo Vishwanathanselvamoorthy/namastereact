@@ -1,0 +1,17 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "\"practice namaste react\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hii"
+  ],
+  "author": "vishwa",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
